@@ -17,3 +17,5 @@ Start Your Github Journey with your first Pull Request.
 *  Aditya Singh @adigeak
 
 *  Nivedita
+
+*  Bhaarat Kumar Khatri
