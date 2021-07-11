@@ -14,6 +14,6 @@ Start Your Github Journey with your first Pull Request.
 
 *  amartesh 
 
-*
+*  Aditya Singh @adigeak
 
 *
