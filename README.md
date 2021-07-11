@@ -10,11 +10,11 @@ Start Your Github Journey with your first Pull Request.
 ### Contributor's Name
 
 
-*  Raynor-X
+*  Ayush Singh(Raynor-X)
 
 *  amartesh 
 
-*  Aditya Singh @adigeak
+*  Aditya Singh (adigeak)
 
 *  Nivedita
 
