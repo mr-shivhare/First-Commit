@@ -10,7 +10,7 @@ Start Your Github Journey with your first Pull Request.
 ### Contributor's Name
 
 
-*  Ayush_SR 
+*  Raynor-X
 
 *  amartesh 
 
