@@ -19,3 +19,5 @@ Start Your Github Journey with your first Pull Request.
 *  Nivedita
 
 *  Bhaarat Kumar Khatri
+
+*  Akash Shivhare
